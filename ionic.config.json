@@ -1,0 +1,7 @@
+{
+  "name": "react-cra4-upgrade",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
